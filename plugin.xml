@@ -31,5 +31,11 @@
         <string>heei</string>
       </array>
     </config-file>
+    
+    <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
+
+      <string>Nos acessamos a camera para leitura de QR Code ou carregar fotos para o app.</string>
+
+    </config-file>
   </platform>
 </plugin>
