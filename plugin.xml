@@ -13,7 +13,8 @@
   <engines>
     <!-- Requires > 3.3.* because of the custom Framework tag for iOS [CB-5238] -->
     <!-- Requires > 3.5.0 because of the custom Framework tag for Android [CB-6698] -->
-    <engine name="cordova" version="&gt;=3.5.0" />
+     <engine name="cordova-ios" version=">=5.1.1" />
+    <engine name="cordova-android" version=">=3.5.0" />
   </engines>
   <!-- ios -->
   <platform name="ios">
@@ -32,6 +33,7 @@
         <string>heeiestabelecimento</string>
         <string>radisco</string>
         <string>radiscoestabelecimento</string>
+        <string>starbyte</string>
       </array>
     </config-file>
     
