@@ -19,8 +19,6 @@
   <!-- ios -->
   <platform name="ios">
     
-    <preference name="CordovaWebViewEngine" value="CDVWKWebViewEngine" />
-    
     <!-- iOS9 whitelisting -->
     <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
       <array>
