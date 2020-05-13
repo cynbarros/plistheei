@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-edit-plist-file" version="0.0.3">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-edit-plist-file" version="1.0.2">
   <name>Edit Plist file</name>
   <description>
         A cordova "plugin" that helps you indicate the modifications on the iOS's *-info.plist file.
